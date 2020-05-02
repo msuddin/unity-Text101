@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f589f2a4f4076b4a8e7ef8309048b5a, type: 3}
+  m_Name: F2_Forrest_Left_Path
+  m_EditorClassIdentifier: 
+  storyText: 'As you walk down the path, you trip and fall making it impossible to
+    turn back. In front you see a template with two possible paths.
+
+    
+
+    1.
+    Enter the temple using the front entrance
+
+    2. Enter the temple using the
+    bottom flodded entrance'
+  storyStates:
+  - {fileID: 11400000, guid: 839b343116dc9fe49b580b00e769b23f, type: 2}
+  - {fileID: 11400000, guid: 29ee4fb9d3f949a4fa3661a270f25efa, type: 2}
+  hasGameEnded: 0

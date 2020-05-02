@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f589f2a4f4076b4a8e7ef8309048b5a, type: 3}
+  m_Name: C1_Cave_Entrance
+  m_EditorClassIdentifier: 
+  storyText: 'You walk into the cave and only see a single path in front of you.
+
+    
+
+    1.
+    Walk further into the cave
+
+    2. Go back outside'
+  storyStates:
+  - {fileID: 11400000, guid: 7910a31f10ae8be4f8449391bfeee96f, type: 2}
+  - {fileID: 11400000, guid: 0f194182c2ab62140a92b1986ac90686, type: 2}
+  hasGameEnded: 0

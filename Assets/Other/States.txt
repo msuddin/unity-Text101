@@ -1,0 +1,41 @@
+1_at_dark_forrect_entrance
+
+Following the treasure map you have finnaly found the entrance to the lost dark forrest.
+
+You can either continue to follow the directions on the map or you explore randomly.
+
+1. Follow the treasure map to the next marker
+2. Explore on your own accord
+
+2_followed_map_to_first_marker
+
+You arrive at an desolute cave, no idea what lies inside. There are no furher map markers to follow.
+
+You also notice a lake nearby and notice a small boat with a light coming from it.
+
+1. Enter the cave
+2. Walk towards the lake
+
+3_explores_on_own_accord
+
+Anaconda, and perhaps the biggest one in the world. You look into your backpack and find some supplies.
+
+You are able to use your clever wits to get away however.....
+
+TO BE CONTINUED
+
+4_entered_the_cave
+
+It's strange, the cave seems very alive. It almost feels like the walls are talking. 
+
+You suddenly feel very dizzy and pass out.
+
+TO BE CONTINUED
+
+5_at_the_lake
+
+The wind is settled at the lake but earily calm, suddenly you feel a push from behind. 
+
+You wake again moments later with a bag over your head.
+
+GAME OVER
